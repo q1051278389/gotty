@@ -8,7 +8,7 @@ import (
 	"github.com/codegangsta/cli"
 	"github.com/fatih/structs"
 
-	"github.com/yudai/gotty/app"
+	"github.com/q1051278389/gotty/app"
 )
 
 type flag struct {
